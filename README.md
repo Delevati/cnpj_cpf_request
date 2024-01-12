@@ -29,7 +29,7 @@ Para a validação de CNPJ, há diversas ferramentas implementadas:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Delevati/cnpj_cpf_verify.git
 
 1. Configure o ambiente:
 
